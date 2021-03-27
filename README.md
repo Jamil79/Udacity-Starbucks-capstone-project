@@ -69,4 +69,7 @@ Results:
 
 Answering the 3 questions, the best targeted bracket of respondants for the advertisement are people above 60 years, prefered Female and with income exceeding 60000 USD. The Discount advertisement succeded better than the Bogo advertisement and we try as models the K-Nearest neighbor, the AdaBoostClassifier and the DecisionTreeClassifier anf got a model that can predict if advertisements succeeded with a completion according to all the demographic and economics inputs of the provided datasets.
 
+link to the blog:
+https://5f7845c463937.site123.me/
+
 License I hereby put at the disposal of everyone the use of this program for free and thanks for Udacity for providing this simulation.
